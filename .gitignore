@@ -1,11 +1,14 @@
 .idea
-__pycache__
 
 # Nhost CLI data
 .nhost
 
 # Directories
 .pytest*
+__pycache__/
+*.pyc
+*.pyo
+*$py.class
 
 .secrets
 
